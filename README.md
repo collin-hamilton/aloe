@@ -1,6 +1,6 @@
 # Aloe - Flashcard Learning App
 
-**Aloe** is a powerful and easy-to-use flashcard learning app for iPad and macOS. It allows users to create flashcard sets, import data, and use an advanced algorithmic learning mode to master their knowledge. Inspired by Quizlet’s Learn Mode, Aloe helps users learn efficiently and track their progress.
+**Aloe** is a powerful and easy-to-use flashcard learning app for iPad and macOS. It allows users to create flashcard sets, import data, and use an advanced algorithmic learning mode to master their knowledge.
 
 ## Features
 
