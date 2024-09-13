@@ -6,7 +6,7 @@
 
 - **Create Flashcard Sets**: Create and manage your own sets of flashcards for any subject.
 - **Import Flashcards**: Import flashcards from text using custom delimiters for separating terms and definitions, with options to create or import into existing sets.
-- **Algorithmic Learn Mode**: Aloe provides an advanced Learn Mode similar to Quizlet, allowing users to practice with multiple choice, true/false, and written answer modes.
+- **Algorithmic Learn Mode**: Aloe provides an advanced Learn Mode, allowing users to practice with multiple choice, true/false, and written answer modes.
 - **Progress Tracking**: Track how many cards you’ve mastered, know, or have missed, and reset progress when needed.
 - **Customization Options**: Shuffle cards, and use different learning modes to fit your style.
 
